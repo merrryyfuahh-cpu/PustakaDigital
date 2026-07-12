@@ -1,7 +1,7 @@
 
-  # Buatkan website berdasarkan desain
+  # PustkaDigital
 
-  This is a code bundle for Buatkan website berdasarkan desain. The original project is available at https://www.figma.com/design/lMnxcdLxZoCsi0rgdCnm7L/Buatkan-website-berdasarkan-desain.
+  This is a code bundle for PustkaDigital. The original project is available at https://www.figma.com/design/lMnxcdLxZoCsi0rgdCnm7L/PustkaDigital.
 
   ## Running the code
 
